@@ -1,3 +1,19 @@
 body {
 	background-color: skyblue;
 }
+
+section {
+	border: 5px dotted goldenrod;
+}
+
+.instructor {
+	background-color: lightslategray;
+}
+
+#ugh-lauren {
+	background-color: tomato;
+}
+
+#ugh-lauren > h1 {
+	text-transform: uppercase;
+}
